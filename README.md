@@ -9,7 +9,7 @@
 ### Introduction
 Traffic is always a painful problem for both authorities and commuters. Recently bike sharing has evolved as a viable alternative to both reduce traffic and pollution.In this project, we have performed exploratory data analysis to understand the different aspects that affect bike sharing and recommendations for bike rebalancing
 
-[Understanding bike sharing behavior in Austin.ipynb](https://github.com/akhilesh-reddy/Visualizing-different-factors-that-affect-Austin-bike-sharing-and-insights-for-bike-rebalancing/blob/master/Understanding%20bike%20sharing%20behavior%20in%20Austin.ipynb) file has the code for the analysis
+[Understanding bike sharing behavior in Austin.ipynb](https://github.com/akhilesh-reddy/Visualizing-different-factors-that-affect-Austin-bike-sharing-and-insights-for-bike-rebalancing/blob/master/Understanding%20bike%20sharing%20behavior%20in%20Austin.ipynb) file has the code for the analysis   
 [Austin bike sharing.pdf](https://github.com/akhilesh-reddy/Visualizing-different-factors-that-affect-Austin-bike-sharing-and-insights-for-bike-rebalancing/blob/master/Austin%20bike%20sharing.pdf) has the final presentation
 
 ### Technologies
