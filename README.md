@@ -14,9 +14,9 @@ Traffic is always a painful problem for both authorities and commuters. Recently
 
 ### Technologies
 Project is created with:
-* Python 2.7 
+* Python 2.7   
 **Datasource**
-* Austin bike sharing dataset from Kaggle
+* Austin bike sharing dataset from Kaggle   
 
 ### Approach:
 The entire analysis is divided into three parts mainly
@@ -28,8 +28,8 @@ The entire analysis is divided into three parts mainly
     iii.Time   
     iv.Weather   
     v.Demographics    
-2.Inference about the traffic using descriptive analysis and visualizations
-3.Insights
+2.Inference about the traffic using descriptive analysis and visualizations  
+3.Insights   
 
 ### Insights:
 * The Walk up membership accounts over 60% of the rides. Most of the rides taken are on weekends and are more on a ad-hoc base.  
